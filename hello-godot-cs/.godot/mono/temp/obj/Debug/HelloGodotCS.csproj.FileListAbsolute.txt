@@ -1,0 +1,17 @@
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGodotCS.csproj.AssemblyReference.cache
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGodotCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGodotCS.AssemblyInfoInputs.cache
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGodotCS.AssemblyInfo.cs
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGodotCS.csproj.CoreCompileInputs.cache
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\bin\Debug\HelloGodotCS.deps.json
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\bin\Debug\HelloGodotCS.runtimeconfig.json
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\bin\Debug\HelloGodotCS.dll
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\bin\Debug\HelloGodotCS.pdb
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGod.AF1FA8F3.Up2Date
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGodotCS.dll
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\refint\HelloGodotCS.dll
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGodotCS.pdb
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\HelloGodotCS.genruntimeconfig.cache
+D:\Drivers and Tools\Godot_v4.7.2-stable_win64.exe\Projects\hello-godot-cs\.godot\mono\temp\obj\Debug\ref\HelloGodotCS.dll

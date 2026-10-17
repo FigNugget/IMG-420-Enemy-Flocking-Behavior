@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sjm5hsnrOSg=",
+  "success": true,
+  "projectFilePath": "D:\\Drivers and Tools\\Godot_v4.7.2-stable_win64.exe\\Projects\\hello-godot-cs\\HelloGodotCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\figgy\\.nuget\\packages\\godot.sourcegenerators\\4.7.2\\godot.sourcegenerators.4.7.2.nupkg.sha512",
+    "C:\\Users\\figgy\\.nuget\\packages\\godotsharp\\4.7.2\\godotsharp.4.7.2.nupkg.sha512",
+    "C:\\Users\\figgy\\.nuget\\packages\\godotsharpeditor\\4.7.2\\godotsharpeditor.4.7.2.nupkg.sha512",
+    "C:\\Users\\figgy\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\figgy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\figgy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

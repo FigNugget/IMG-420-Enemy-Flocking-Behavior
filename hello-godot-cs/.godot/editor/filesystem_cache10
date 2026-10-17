@@ -1,0 +1,8 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1792089222
+Boid.cs::CSharpScript::4963014226379948909::1792088166::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::9012179694851265571::1792087372::1792087377::1::::<><><>0<>0<>839016655c6d92e0c7a8d546773c6c80<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Main.cs::CSharpScript::4963099353799500719::1792087826::0::1::::<>Node2D<><>0<>0<><>::
+main.tscn::PackedScene::1627436295912196081::1792089210::0::1::::<><><>0<>0<><>::uid://ccyfrys1xqnch::::res://Main.cs<>uid://d1ntjvaioclah::::res://icon.svg<>uid://d2hbl0fewqdrl::::res://Player.cs<>uid://bto1oatqmwh2v::::res://Flock.cs
+Player.cs::CSharpScript::9068893155329865977::1792087926::0::1::::<>Sprite2D<><>0<>0<><>::
+Flock.cs::CSharpScript::8462196023104816763::1792088889::0::1::::<><><>0<>0<><>::

@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://xglvxs3dxsfx"]
+
+[ext_resource type="Script" uid="uid://ccyfrys1xqnch" path="res://Main.cs" id="1_h2yge"]
+[ext_resource type="Texture2D" uid="uid://d1ntjvaioclah" path="res://icon.svg" id="1_ig7tw"]
+[ext_resource type="Script" uid="uid://d2hbl0fewqdrl" path="res://Player.cs" id="2_0xm2m"]
+[ext_resource type="Script" uid="uid://dstfeq1l174h0" path="res://Flock.cs" id="4_1bvp3"]
+
+[node name="Main" type="Node2D" unique_id=1772460063]
+script = ExtResource("1_h2yge")
+
+[node name="InfoLabel" type="Label" parent="." unique_id=1123195822]
+offset_left = 16.0
+offset_top = 16.0
+offset_right = 56.0
+offset_bottom = 39.0
+
+[node name="Player" type="Sprite2D" parent="." unique_id=563533188]
+position = Vector2(576, 324)
+texture = ExtResource("1_ig7tw")
+script = ExtResource("2_0xm2m")
+
+[node name="Flock" type="Node2D" parent="." unique_id=1485946311]
+script = ExtResource("4_1bvp3")

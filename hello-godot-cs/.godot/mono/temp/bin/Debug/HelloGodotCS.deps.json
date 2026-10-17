@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HelloGodotCS/1.0.0": {
+        "dependencies": {
+          "GodotSharp": "4.7.2",
+          "GodotSharpEditor": "4.7.2"
+        },
+        "runtime": {
+          "HelloGodotCS.dll": {}
+        }
+      },
+      "GodotSharp/4.7.2": {
+        "runtime": {
+          "lib/net8.0/GodotSharp.dll": {
+            "assemblyVersion": "4.7.2.0",
+            "fileVersion": "4.7.2.0"
+          }
+        }
+      },
+      "GodotSharpEditor/4.7.2": {
+        "dependencies": {
+          "GodotSharp": "4.7.2"
+        },
+        "runtime": {
+          "lib/net8.0/GodotSharpEditor.dll": {
+            "assemblyVersion": "4.7.2.0",
+            "fileVersion": "4.7.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloGodotCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GodotSharp/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wl5a5eqUCKuoujBaZax4pfyL8GBtdYah9tiXBzJAXPuD0BGHfuz3BW/jUrfAtVWfTueJBFMS0zMLIepvaGQybQ==",
+      "path": "godotsharp/4.7.2",
+      "hashPath": "godotsharp.4.7.2.nupkg.sha512"
+    },
+    "GodotSharpEditor/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P6L1KwGn6t0FNgGLQBWwgRtq8mxm9oJ6SMz501SK0klRfRUWH6y0tEe1Q+SFmON4VLv9ApGH93kiiyW7l0UQsw==",
+      "path": "godotsharpeditor/4.7.2",
+      "hashPath": "godotsharpeditor.4.7.2.nupkg.sha512"
+    }
+  }
+}
